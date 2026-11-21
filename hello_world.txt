@@ -1,3 +1,5 @@
 To solve this problem, each computer on a network is connected to a special tiny computer called a network switch (or switch for short). This switch has only one job: like a signaler at a railway station, it forwards messages toward their intended recipients. To send a message to computer B, computer A sends the message to the switch, which in turn forwards the message to computer B.
 
 Once we add a switch to the system, our network of 10 computers only requires 10 cables: a single plug for each computer and a switch with 10 plugs.
+
+some text to test commit message. 
